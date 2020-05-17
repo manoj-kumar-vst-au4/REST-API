@@ -1,5 +1,6 @@
 # REST-API
-    LIVE: [API](https://pacific-cove-10073.herokuapp.com/)
+   API is live at [https://pacific-cove-10073.herokuapp.com/](https://pacific-cove-10073.herokuapp.com/)
+   
     POST /api/users - Get new user via JSON FormData
     GET /api/users - Get all users
     GET /api/users/1 - Get user with id 1
